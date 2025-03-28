@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "botobot"
-version = "0.1.0"
+version = "0.1.1"
 description = "aws access assistant"
 authors = [
     { name="Yoni Gottesman", email="yonigo10@gmail.com" }
