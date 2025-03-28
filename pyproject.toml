@@ -30,3 +30,6 @@ packages = ["src/botobot"]
 dev = [
     "ruff>=0.11.2",
 ]
+
+[project.urls]
+Repository = "https://github.com/yonigottesman/botobot"
